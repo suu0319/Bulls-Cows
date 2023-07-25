@@ -10,3 +10,6 @@ B: 某數字有在答案裡但位置不同。
 ```
   
 最後程式也會記錄玩家一共猜了幾次。
+
+## Preview  
+![猜數字](https://github.com/suu0319/Bulls-Cows/assets/59763965/532e1573-940f-4be8-8ba5-65996b2044bb)
