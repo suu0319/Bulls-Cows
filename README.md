@@ -1,15 +1,14 @@
-# 猜數字(幾A幾B)  
+# Bulls Cows 
 ## About  
-主控台應用程式。  
-程式執行後會先亂數產生一組四位數字的答案。  
-輸入數字後，程式會提示幾A幾B來提示使用者。  
-提示:  
+Console application.
+The program randomly generates a four-digit answer at the start.
+After entering a number, the program provides feedback in the form of "X A, Y B" to guide the user.
+Hint:
 ``` 
-A: 某數字有在答案裡且位置一樣。  
-B: 某數字有在答案裡但位置不同。  
+A: A digit is in the answer and in the correct position.  
+B: A digit is in the answer but in a different position.  
 ```
-  
-最後程式也會記錄玩家一共猜了幾次。
+The program also keeps track of the total number of attempts made by the player.
 
 ## Preview  
-![猜數字](https://github.com/suu0319/Bulls-Cows/assets/59763965/532e1573-940f-4be8-8ba5-65996b2044bb)
+![Bulls Cows](https://github.com/suu0319/Bulls-Cows/assets/59763965/532e1573-940f-4be8-8ba5-65996b2044bb)
